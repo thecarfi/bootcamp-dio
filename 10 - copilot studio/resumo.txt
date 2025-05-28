@@ -1,0 +1,4 @@
+O Copilot Studio foi desenvolvido pela Microsoft com o objetivo de mitigar a escassez de profissionais de TI, para desenvolvimento de ferramentas esoluções para as empresas. Com o Copilot é possível através de métodos no-code a criação de ferramentas de AI, automações, ingestão de dados dentre tantos outros possibilidades disponibilizado nesta ferramenta.
+
+
+No Copilot Studio, é possível criar ambiente de desenvolvimento, teste e produção, para que possamos ter uma melhor organização dos pipelines e saber quando uma determinada funcionalidade esta construída como esperada. Nesses ambientes, é viável a criação de base de dados para que se possa compartilhar entre as soluções alocadas nesses mesmos ambientes.
