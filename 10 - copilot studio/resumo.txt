@@ -2,3 +2,10 @@ O Copilot Studio foi desenvolvido pela Microsoft com o objetivo de mitigar a esc
 
 
 No Copilot Studio, é possível criar ambiente de desenvolvimento, teste e produção, para que possamos ter uma melhor organização dos pipelines e saber quando uma determinada funcionalidade esta construída como esperada. Nesses ambientes, é viável a criação de base de dados para que se possa compartilhar entre as soluções alocadas nesses mesmos ambientes.
+
+
+Abaixo, um exemplo de codigo girado por um agente criado na ferramenta explicando oque esta significa:
+
+Microsoft Copilot Studio é uma plataforma que permite criar agentes orientados por IA de forma fácil e rápida. Através do Copilot Studio, é possível integrar chat ao seu site utilizando cursos, documentos e vídeos de treinamento online​.
+
+Importante: O Microsoft Copilot Studio não é destinado ou disponibilizado como dispositivo médico para diagnóstico, cura, mitigação, tratamento ou prevenção de doenças, e não deve ser usado como componente de qualquer oferta ou produto clínico.
